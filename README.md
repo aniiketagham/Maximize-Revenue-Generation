@@ -1,6 +1,6 @@
 # Maximize-Revenue-Generation
 
-##Problem Statement
+## Problem Statement
 In the fast-paced taxi booking sector, making the most of
 revenue is essential for long-term success and driver
 happiness.
@@ -10,16 +10,16 @@ research aims to determine whether payment
 methods have an impact on fare pricing by focusing on the
 relationship between payment type and fare amount
 
-##Research Question
+## Research Question
 **Is there a relationship between total fare amount and payment type?**
 
-##Journey Insights
+## Journey Insights
 Customers paying with cards tend to have a slightly higher average trip distance and fare amount
 compared to those paying with cash.
 Indicates that customers prefers to pay more with cards when they have high fare amount and
 long trip distance.
 
-##Preference of Payment Types
+## Preference of Payment Types
 The proportion of customers paying with cards is
 significantly higher than those paying with cash,
 with card payments accounting for 67.5% of all
@@ -30,7 +30,7 @@ customers for using card payments over cash,
 potentially due to convenience, security, or
 incentives offered for card transactions.
 
-##Passenger Count Analysis
+## Passenger Count Analysis
 Among card payments, rides with a single passenger (passenger_count = 1) comprise the largest proportion,
 constituting 40.08% of all card transactions.
 Similarly, cash payments are predominantly associated with single-passenger rides, making up 20.04% of all
@@ -40,7 +40,7 @@ that larger groups are less likely to use taxis or may opt for alternative payme
 These insights emphasize the importance of considering both payment method and passenger count when
 analyzing transaction data, as they provide valuable insights into customer behavior and preferences.
 
-##Hypothesis Testing
+## Hypothesis Testing
 **Null hypothesis:** There is no difference in average fare between customers who use credit cards
 and customers who use cash.
 **Alternative hypothesis:** There is a difference in average fare between customers who use credit
