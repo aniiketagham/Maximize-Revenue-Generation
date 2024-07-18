@@ -1,4 +1,4 @@
-# Maximize-Revenue-Generation for Cab-driver
+# Maximize-Revenue-Generation for Cab-drivers
 
 ## Problem Statement
 In the fast-paced taxi booking sector, making the most of
